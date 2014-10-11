@@ -11,6 +11,7 @@ A very simple RPG game.
 Slot Machine.
 
 A basic slotmachine
+
 1. Start of with a 1000$ budget
 2. Place a bet 
 3. ????
